@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="startBrown">#402218</color>
+    <color name="endBrown">#D7B19D</color>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorSecondary">#ffffff</color>
+    <color name="colorAccent">#ffffff</color>
+
+<!--    Color button Style  -->
+    <color name="gradient_start_color">@color/startBrown</color>
+    <color name="gradient_end_color">@color/endBrown</color>
+
+<!--    Colors for tab screen   -->
+    <color name="tab_indicator">#c0c0c0</color>
+    <color name="intro_title_color">#010101</color>
+    <color name="intro_description_color">#656565</color>
+
+
+</resources>
